@@ -10,6 +10,6 @@ class Song
   end
 
   def artist
-    @artist
+    @artist.name
   end
 end
