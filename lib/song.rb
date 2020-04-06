@@ -6,6 +6,6 @@ class Song
   end
 
   def name
-    @name
+    @artist
   end
 end
