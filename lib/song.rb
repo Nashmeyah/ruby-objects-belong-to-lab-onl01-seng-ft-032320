@@ -6,7 +6,7 @@ class Song
   end
 
   def artist
-    
+
   end
 
   def artist
